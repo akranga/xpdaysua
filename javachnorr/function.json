@@ -1,0 +1,6 @@
+{
+  "runtime": "java",
+  "handler": "Main::handleRequest",
+  "memory": 512,
+  "timeout": 32
+}
